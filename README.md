@@ -1,4 +1,4 @@
-Hey guys! I'm Adithya,a Programmer,Tech enthusiast and Fitness Freak from India.
+Hey guys! I'm Adithya, a Programmer,Tech enthusiast and a Fitness Freak from India.
 
 <!---
 adithya-9903/adithya-9903 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
